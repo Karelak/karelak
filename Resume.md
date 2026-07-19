@@ -29,17 +29,17 @@ A-Level graduate with a strong interest in backend software engineering, Python,
 - Evaluated Elasticsearch, vector databases, and hybrid MCP retrieval approaches.
 - Shared the prototype with a public sector organisation evaluating commercial LLM search solutions, helping inform discussion around a lighter-weight retrieval approach.
 
-### Personal Portfolio Website
+### Personal Portfolio Website (June 2026 - Present)
 
 Built a personal portfolio website in Flask using Flask-WTF and Mailjet for email delivery. Later rebuilt the site in WordPress to broaden experience with CMS development and content management.
 
-### Paul Burton ADR - Client Website
+### Paul Burton ADR - Client Website (June 2026 - July 2026)
 
 - Website: https://paulburtonadr.com
 
 Designed and built a professional website for an independent mediator and arbitrator, presenting services and experience across commercial and private client dispute resolution.
 
-### Sanser - Client Website (In Progress)
+### Sanser - Client Website (July 2026 - Present)
 
 Building a WordPress site for an Estonian events and hospitality business, covering their cocktail/mocktail bar, DJ, and event-hosting services.
 
@@ -67,7 +67,7 @@ Developed coursework projects including a Ticket Booking System, Car Park Manage
 
 ### The College of Richard Collyer, Horsham - A Levels (September 2024 - May 2026)
 
-A Levels: Computer Science (A), Electronics Engineering (A)\*
+A Levels: Computer Science (A\*), Electronics Engineering (A)
 
 ---
 
