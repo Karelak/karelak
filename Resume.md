@@ -9,7 +9,6 @@ Email: partkaarel@gmail.com
 Phone: (+44) 07763480723 | (+372) 5380 2194
 
 [GitHub](https://github.com/Karelak) | [LinkedIn](https://linkedin.com/in/kaarelpart)
-s
 
 ---
 
