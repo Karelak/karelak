@@ -22,7 +22,7 @@ A-Level graduate with a strong interest in backend software engineering, Python,
 
 ### Aviation Report Search & Retrieval System (aaib-reports)
 
-- Github: https://github.com/Karelak/aaib-reports
+    Github: https://github.com/Karelak/aaib-reports
 
 - Built a Python pipeline to ingest AAIB reports from RSS feeds and APIs.
 - Extracted and parsed PDF text and metadata for indexing.
@@ -35,7 +35,7 @@ Built a personal portfolio website in Flask using Flask-WTF and Mailjet for emai
 
 ### Paul Burton ADR - Client Website (June 2026 - July 2026)
 
-- Website: https://paulburtonadr.com
+    Website: https://paulburtonadr.com
 
 Designed and built a professional website for an independent mediator and arbitrator, presenting services and experience across commercial and private client dispute resolution.
 
@@ -53,7 +53,7 @@ Observed and supported staff in a professional office environment for a week; ga
 
 ### UK Fuel Finder API Client
 
-- Github: https://github.com/Karelak/cheap-fuel-finder
+    Github: https://github.com/Karelak/cheap-fuel-finder
 
 Developed a Python client for the UK government's Fuel Finder API, implementing its non-standard OAuth authentication flow and handling automated data retrieval.
 
