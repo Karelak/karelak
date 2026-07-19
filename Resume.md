@@ -79,9 +79,3 @@ Computer Science (A\*), Electronics Engineering (A).
 - WordPress
 - REST APIs
 - Problem-solving & independent troubleshooting
-
----
-
-## References
-
-References available upon request.
