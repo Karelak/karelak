@@ -70,12 +70,12 @@ Computer Science (A\*), Electronics Engineering (A).
 
 ## Skills
 
-- Python (automation, APIs, data processing)
-- Docker & container networking
-- Linux administration
+- Python
+- Linux
+- Docker & Docker Compose
 - Git & GitHub
-- Tailscale & reverse proxying
-- Flask
-- WordPress
 - REST APIs
-- Problem-solving & independent troubleshooting
+- Flask
+- Tailscale
+- Reverse proxying
+- WordPress
