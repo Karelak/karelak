@@ -8,7 +8,7 @@ Email: partkaarel@gmail.com
 
 Phone: (+44) 07763480723 | (+372) 5380 2194
 
-[GitHub](https://github.com/Karelak) | [LinkedIn](https://linkedin.com/in/kaarelpart)
+[GitHub](https://github.com/Karelak): Selected projects available on GitHub | [LinkedIn](https://linkedin.com/in/kaarelpart)
 
 ---
 
@@ -24,7 +24,10 @@ A-Level graduate with a strong interest in backend software engineering, Python,
 
 - Github: https://github.com/Karelak/aaib-reports
 
-Built a pipeline to ingest UK Air Accidents Investigation Branch (AAIB) reports via API/RSS, scrape and parse PDFs for text and metadata, and index them for search. Evaluated Elasticsearch, vector databases, and hybrid MCP-based retrieval approaches. Shared the work with a public sector organisation evaluating a commercial LLM-based proposal, where it helped inform discussion around a simpler retrieval-focused approach.
+- Built a Python pipeline to ingest AAIB reports from RSS feeds and APIs.
+- Extracted and parsed PDF text and metadata for indexing.
+- Evaluated Elasticsearch, vector databases, and hybrid MCP retrieval approaches.
+- Shared the prototype with a public sector organisation evaluating commercial LLM search solutions, helping inform discussion around a lighter-weight retrieval approach.
 
 ### Personal Portfolio Website
 
@@ -40,7 +43,7 @@ Designed and built a professional website for an independent mediator and arbitr
 
 Building a WordPress site for an Estonian events and hospitality business, covering their cocktail/mocktail bar, DJ, and event-hosting services.
 
-### Self-Hosted Infrastructure (Sepetember 2023 - Present)
+### Self-Hosted Infrastructure (September 2023 - Present)
 
 Designed and maintain a multi-machine self-hosted infrastructure connected with Tailscale, using Docker containers, isolated networks, named volumes, and reverse proxying to deploy and manage services across multiple machines.
 
@@ -64,7 +67,7 @@ Developed coursework projects including a Ticket Booking System, Car Park Manage
 
 ### The College of Richard Collyer, Horsham - A Levels (September 2024 - May 2026)
 
-Computer Science (A\*), Electronics Engineering (A).
+A Levels: Computer Science (A), Electronics Engineering (A)\*
 
 ---
 
