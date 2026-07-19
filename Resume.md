@@ -6,9 +6,9 @@ West Sussex, England
 
 Email: partkaarel@gmail.com
 
-Phone: (+44) 07763480723 | (+372) 5380 2194
+Primary: +44 07763480723 | +372 5380 2194
 
-[GitHub](https://github.com/Karelak): Selected projects available on GitHub | [LinkedIn](https://linkedin.com/in/kaarelpart)
+[GitHub](https://github.com/Karelak) (Selected projects available on GitHub) | [LinkedIn](https://linkedin.com/in/kaarelpart)
 
 ---
 
