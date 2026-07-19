@@ -9,6 +9,7 @@ Email: partkaarel@gmail.com
 Phone: (+44) 07763480723 | (+372) 5380 2194
 
 [GitHub](https://github.com/Karelak) | [LinkedIn](https://linkedin.com/in/kaarelpart)
+s
 
 ---
 
@@ -22,6 +23,8 @@ A-Level graduate with a strong interest in backend software engineering, Python,
 
 ### Aviation Report Search & Retrieval System (aaib-reports)
 
+- Github: https://github.com/Karelak/aaib-reports
+
 Built a pipeline to ingest UK Air Accidents Investigation Branch (AAIB) reports via API/RSS, scrape and parse PDFs for text and metadata, and index them for search. Evaluated Elasticsearch, vector databases, and hybrid MCP-based retrieval approaches. Shared the work with a public sector organisation evaluating a commercial LLM-based proposal, where it helped inform discussion around a simpler retrieval-focused approach.
 
 ### Personal Portfolio Website
@@ -29,6 +32,8 @@ Built a pipeline to ingest UK Air Accidents Investigation Branch (AAIB) reports 
 Built a personal portfolio website in Flask using Flask-WTF and Mailjet for email delivery. Later rebuilt the site in WordPress to broaden experience with CMS development and content management.
 
 ### Paul Burton ADR - Client Website
+
+- Website: https://paulburtonadr.com
 
 Designed and built a professional website for an independent mediator and arbitrator, presenting services and experience across commercial and private client dispute resolution.
 
@@ -45,6 +50,8 @@ Designed and maintain a multi-machine self-hosted infrastructure connected with 
 Observed and supported staff in a professional office environment for a week; gained exposure to structured workflows, data handling, and workplace standards.
 
 ### UK Fuel Finder API Client
+
+- Github: https://github.com/Karelak/cheap-fuel-finder
 
 Developed a Python client for the UK government's Fuel Finder API, implementing its non-standard OAuth authentication flow and handling automated data retrieval.
 
@@ -77,14 +84,5 @@ Computer Science (A\*), Electronics Engineering (A).
 ---
 
 ## References
-
-
-https://github.com/Karelak/aaib-reports
-
-https://paulburtonadr.com
-
-https://sanser.kaarel.page
-
-https://github.com/Karelak/cheap-fuel-finder
 
 References available upon request.
