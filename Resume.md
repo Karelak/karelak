@@ -22,7 +22,7 @@ A-level graduate with a strong backend/Python focus. Comfortable working indepen
 
 ### Aviation Report Search & Retrieval System (aaib-reports)
 
-Built a pipeline to ingest UK air accident investigation reports via API/RSS, scrape and parse the underlying PDFs for text and metadata, and index them for search - evaluating Elasticsearch, vector-database, and hybrid MCP-based approaches for the retrieval layer. Shared with a public sector organisation that was evaluating a costly commercial proposal for a similar LLM-based system, and was used to help inform that decision in favour of the lighter-weight approach. My involvement has helped the organisation immensly to avoid extra guidance fees and to understand more with what to look for when developing this search system.
+Built a pipeline to ingest UK Air Accidents Investigation Branch (AAIB) reports via API/RSS, scrape and parse PDFs for text and metadata, and index them for search. Evaluated Elasticsearch, vector databases, and hybrid MCP-based retrieval approaches. Shared the work with a public sector organisation evaluating a commercial LLM-based proposal, where it helped inform discussion around a simpler retrieval-focused approach.
 
 ### Personal Portfolio Website
 
