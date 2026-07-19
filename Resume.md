@@ -14,7 +14,7 @@ Phone: (+44) 07763480723 | (+372) 5380 2194
 
 ## Description
 
-A-level graduate with a strong backend/Python focus. Comfortable working independently through documentation and troubleshooting. Interested in systems, networking, and practical software engineering.
+A-Level graduate with a strong interest in backend software engineering, Python, Linux, and self-hosted infrastructure. Comfortable learning independently through documentation, building practical projects, and troubleshooting complex technical problems.
 
 ---
 
@@ -38,7 +38,7 @@ Building a WordPress site for an Estonian events and hospitality business, cover
 
 ### Self-Hosted Infrastructure (Sepetember 2023 - Present)
 
-Designed and maintain a multi-machine self-hosted infrastructure setup for almost 4 years connected over Tailscale, with services containerised in Docker.
+Designed and maintain a multi-machine self-hosted infrastructure connected with Tailscale, using Docker containers, isolated networks, named volumes, and reverse proxying to deploy and manage services across multiple machines.
 
 ### Civil Aviation Authority, Crawley - Work Placement (May 2024)
 
@@ -46,12 +46,11 @@ Observed and supported staff in a professional office environment for a week; ga
 
 ### UK Fuel Finder API Client
 
-Python client for the UK government's Fuel Finder API, handling non-standard OAuth token acquisition and data retrieval.
+Developed a Python client for the UK government's Fuel Finder API, implementing its non-standard OAuth authentication flow and handling automated data retrieval.
 
 ### A-Level Coursework Projects
 
-Ticket Booking System, Car Park Management System (PyQt5), and an Encryption Program - coursework projects covering GUI development, data handling, and applied cryptography, published
-on GitHub.
+Developed coursework projects including a Ticket Booking System, Car Park Management System (PyQt5), and an Encryption Program, covering GUI development, data handling, and applied cryptography. Published the projects on GitHub.
 
 ---
 
@@ -61,21 +60,24 @@ on GitHub.
 
 Computer Science (A\*), Electronics Engineering (A).
 
-### Hazelwick, Crawley - GCSE (September 2019 - July 2024)
-
-Average of 7-8 in my GCSE's, my strongest being Mathematics, Design Technology and Computer Science.
-
 ---
 
 ## Skills
 
-Python (automation, data handling, API integration); Docker and container networking; Git and GitHub; Linux administration; self-hosted service deployment (Tailscale, reverse proxying); problem-solving and independent troubleshooting.
+- Python (automation, APIs, data processing)
+- Docker & container networking
+- Linux administration
+- Git & GitHub
+- Tailscale & reverse proxying
+- Flask
+- WordPress
+- REST APIs
+- Problem-solving & independent troubleshooting
 
 ---
 
 ## References
 
-If further ones are needed please ask
 
 https://github.com/Karelak/aaib-reports
 
@@ -84,3 +86,5 @@ https://paulburtonadr.com
 https://sanser.kaarel.page
 
 https://github.com/Karelak/cheap-fuel-finder
+
+References available upon request.
