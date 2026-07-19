@@ -1,6 +1,6 @@
 # Kaarel Part
 
-Devops Architect, Web Developer, Software Engineer
+Backend Python Developer | DevOps & Infrastructure | Web Developer
 
 West Sussex, England
 
