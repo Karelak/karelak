@@ -26,7 +26,7 @@ Built a pipeline to ingest UK Air Accidents Investigation Branch (AAIB) reports 
 
 ### Personal Portfolio Website
 
-Built a personal portfolio site in Flask, with a contact form via Flask-WTF and Mailjet for email delivery, deployed and configured independently. Later converted to WordPress to become more familiar with it and make it more resiliant to human error from me.
+Built a personal portfolio website in Flask using Flask-WTF and Mailjet for email delivery. Later rebuilt the site in WordPress to broaden experience with CMS development and content management.
 
 ### Paul Burton ADR - Client Website
 
