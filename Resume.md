@@ -1,14 +1,6 @@
 # Kaarel Part
 
-Backend Python Developer | DevOps & Infrastructure | Web Developer
-
-West Sussex, England
-
-Email: partkaarel@gmail.com
-
-Primary: +44 07763480723 | +372 5380 2194
-
-[GitHub](https://github.com/Karelak) (Selected projects available on GitHub) | [LinkedIn](https://linkedin.com/in/kaarelpart)
+<p style="text-align:center;">github.com/Karelak | partkaarel@gmail.com | linkedin.com/in/kaarelpart/</p>
 
 ---
 
