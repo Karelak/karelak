@@ -1,76 +1,92 @@
 # Kaarel Part
 
-<p style="text-align:center;">github.com/Karelak | partkaarel@gmail.com | linkedin.com/in/kaarelpart/</p>
+<p style="text-align :center;">github.com/Karelak | [partkaarel@gmail.com](mailto:partkaarel@gmail.com) | linkedin.com/in/kaarelpart/<p>
 
 ---
 
-## Description
+## Profile
 
-A-Level graduate with a strong interest in backend software engineering, Python, Linux, and self-hosted infrastructure. Comfortable learning independently through documentation, building practical projects, and troubleshooting complex technical problems.
+A-Level graduate with a strong interest in backend software engineering, Python, Linux, and self-hosted infrastructure. Comfortable learning independently through technical documentation, building practical software projects, and troubleshooting complex systems. Interested in backend development, automation, infrastructure, and developer tooling.
 
 ---
 
-## Work History
+## Experience
 
 ### Aviation Report Search & Retrieval System (aaib-reports)
 
-    Github: https://github.com/Karelak/aaib-reports
+_GitHub:_ https://github.com/Karelak/aaib-reports
 
-- Built a Python pipeline to ingest AAIB reports from RSS feeds and APIs.
-- Extracted and parsed PDF text and metadata for indexing.
-- Evaluated Elasticsearch, vector databases, and hybrid MCP retrieval approaches.
-- Shared the prototype with a public sector organisation evaluating commercial LLM search solutions, helping inform discussion around a lighter-weight retrieval approach.
+- Designed and developed a Python pipeline to ingest UK AAIB investigation reports from RSS feeds and public APIs, automating report collection and processing.
+- Built PDF parsing and metadata extraction workflows to index accident reports for efficient searching and retrieval.
+- Researched and evaluated Elasticsearch, vector databases, and hybrid MCP retrieval architectures to improve search quality for large technical document collections.
+- Shared the prototype with a public sector organisation evaluating commercial LLM search platforms, contributing to discussions around lighter-weight retrieval approaches.
 
-### Personal Portfolio Website (June 2026 - Present)
+### Personal Portfolio Website | June 2026 – Present
 
-Built a personal portfolio website in Flask using Flask-WTF and Mailjet for email delivery. Later rebuilt the site in WordPress to broaden experience with CMS development and content management.
+- Developed a personal portfolio website using Flask, Flask-WTF, and Mailjet to showcase projects and provide a secure contact form.
+- Later rebuilt the website in WordPress to gain practical experience with CMS development, theme customisation, and content management.
+- Managed deployment, hosting, and ongoing updates while maintaining responsive design across desktop and mobile devices.
 
-### Paul Burton ADR - Client Website (June 2026 - July 2026)
+### Paul Burton ADR – Client Website | June 2026 – July 2026
 
-    Website: https://paulburtonadr.com
+- Designed and delivered a professional website for an independent mediator and arbitrator using Squarespace.
+- Worked directly with the client to translate business requirements into a clear, professional online presence.
+- Produced a responsive website highlighting professional services, experience, and contact information.
 
-Designed and built a professional website for an independent mediator and arbitrator, presenting services and experience across commercial and private client dispute resolution.
+### Sanser – Client Website | July 2026 – Present
 
-### Sanser - Client Website (July 2026 - Present)
+- Building a WordPress website for an Estonian hospitality and events business covering cocktail and mocktail bars, DJs, and event hosting.
+- Configuring and customising WordPress to meet client branding and business requirements.
+- Managing hosting, deployment, and ongoing development while working directly with the client throughout the project.
 
-Building a WordPress site for an Estonian events and hospitality business, covering their cocktail/mocktail bar, DJ, and event-hosting services.
+### Self-Hosted Infrastructure | September 2023 – Present
 
-### Self-Hosted Infrastructure (September 2023 - Present)
+- Designed and maintain a multi-machine self-hosted infrastructure connected through Tailscale for secure remote access.
+- Deploy and manage services using Docker, Docker Compose, isolated networks, persistent volumes, and reverse proxies.
+- Configure and troubleshoot Linux servers, networking, containerised applications, and automated service deployments.
+- Self-host a range of development and productivity services while gaining practical experience with infrastructure management and system administration.
 
-Designed and maintain a multi-machine self-hosted infrastructure connected with Tailscale, using Docker containers, isolated networks, named volumes, and reverse proxying to deploy and manage services across multiple machines.
+### Civil Aviation Authority | Work Placement | May 2024
 
-### Civil Aviation Authority, Crawley - Work Placement (May 2024)
-
-Observed and supported staff in a professional office environment for a week; gained exposure to structured workflows, data handling, and workplace standards.
+- Completed a one-week work placement within a professional office environment at the Civil Aviation Authority.
+- Observed structured engineering and administrative workflows while gaining experience of professional workplace standards.
+- Assisted with routine tasks and developed an understanding of data handling and organisational processes.
 
 ### UK Fuel Finder API Client
 
-    Github: https://github.com/Karelak/cheap-fuel-finder
+_GitHub:_ https://github.com/Karelak/cheap-fuel-finder
 
-Developed a Python client for the UK government's Fuel Finder API, implementing its non-standard OAuth authentication flow and handling automated data retrieval.
+- Developed a Python client for the UK Government Fuel Finder API.
+- Implemented the API's non-standard OAuth authentication workflow to automate secure access.
+- Built automated data retrieval functionality and documented the project on GitHub.
 
-### A-Level Coursework Projects
+### A-Level Software Projects
 
-Developed coursework projects including a Ticket Booking System, Car Park Management System (PyQt5), and an Encryption Program, covering GUI development, data handling, and applied cryptography. Published the projects on GitHub.
+- Developed multiple software projects including a Ticket Booking System, Car Park Management System (PyQt5), and an Encryption Program.
+- Applied object-oriented programming, GUI development, file handling, and basic cryptographic techniques throughout coursework.
+- Published completed projects on GitHub with source code and documentation.
 
 ---
 
 ## Education
 
-### The College of Richard Collyer, Horsham - A Levels (September 2024 - May 2026)
+### The College of Richard Collyer | September 2024 – May 2026
 
-A Levels: Computer Science (A\*), Electronics Engineering (A)
+**A Levels**
+
+- Computer Science — A\*
+- Electronics Engineering — A
 
 ---
 
-## Skills
+## Technical Skills
 
-- Python
-- Linux
-- Docker & Docker Compose
-- Git & GitHub
-- REST APIs
-- Flask
-- Tailscale
-- Reverse proxying
-- WordPress
+**Languages:** Python
+
+**Operating Systems:** Linux
+
+**Backend & APIs:** REST APIs, Flask
+
+**Infrastructure:** Docker, Docker Compose, Tailscale, Reverse Proxying
+
+**Tools:** Git, GitHub, WordPress
